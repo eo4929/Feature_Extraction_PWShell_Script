@@ -1,2 +1,6 @@
 # Feature_Extraction_PWShell_Script
-For KISA AI 2022 
+
+```추출해야 할 피처```
+- 
+
+```참고```
